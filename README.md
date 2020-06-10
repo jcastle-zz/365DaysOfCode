@@ -4,7 +4,7 @@ This repo is a representation of my effort to move from a government program man
 
 Here are a couple supporting docs outside of this repo.
 - [Professional resume](https://github.com/jcastle/dissertation_publishingOSS/blob/master/Resume.pdf)
-- Ph.D. [dissertation](https://github.com/jcastle/dissertation_publishingOSS/blob/master/Castle_JR_D_2020.pdf) on open source software
+- [Ph.D. dissertation](https://github.com/jcastle/dissertation_publishingOSS/blob/master/Castle_JR_D_2020.pdf) on open source software
 - [LinkedIn](https://www.linkedin.com/in/jrcastle/)
 - [Twitter](https://twitter.com/jrcastle_vt)
 
@@ -19,6 +19,7 @@ The following is a collection of coursework and projects beyond Code.gov that su
 | ----- | ----- | ----- | ----- |
 | [GA Front-End Web Development](https://generalassemb.ly/education/front-end-web-development/washington-dc) | Bootcamp lasting four months on Saturdays. Topics included HTML, CSS, and Javascript with JQuery. Final project was a fully functioning website. | Completed 3/19/2016 | [Code](https://github.com/jcastle/fewd21dev) |
 | [FeM Complete Intro to Web Development](https://frontendmasters.com/courses/web-development-v2/) | 11 hours of introductory material pertaining to front-end development including HTML, CSS, and JS. Also includes brief instruction on package management, Git, and GitHub. | Completed 6/2/2020 | [Code](https://github.com/jcastle/-playground-FeM-intro-web-dev) |
+| [FeM Bootcamp](https://frontendmasters.com/bootcamp/) | A full refresher of HTML, CSS, JS. Also includes Git and GitHub use. | In progress | [Code](https://github.com/jcastle/-playground-FeM-bootcamp) |
 
 </details>
 
@@ -27,7 +28,7 @@ The following is a collection of coursework and projects beyond Code.gov that su
 
 | Course | Description | Progress | Repo |
 | ----- | ----- | ----- | ----- |
-| [FeM CSS Grids and Flexbox for Responsive Design](https://frontendmasters.com/courses/css-grids-flexbox/) | CSS styling with floats, grids, and flexbox. | In progress | [Code](https://github.com/jcastle/-playground-FeM-grids-flexbox-responsive-design) |
+| [FeM CSS Grids and Flexbox for Responsive Design](https://frontendmasters.com/courses/css-grids-flexbox/) | CSS styling with floats, grids, and flexbox. | On hold | [Code](https://github.com/jcastle/-playground-FeM-grids-flexbox-responsive-design) |
 
 </details>
 
@@ -38,7 +39,7 @@ The following is a collection of coursework and projects beyond Code.gov that su
 | ----- | ----- | ----- | ----- |
 | [WesBos Beginner JavaScript](https://beginnerjavascript.com/) | 85 videos pertaining to vanilla JavaScript. Includes JS fundamentals and interaction with the DOM. | Completed 5/24/2020 | [Code](https://github.com/jcastle/-playground-WB-beginner-javascript) |
 | [FeM Getting Started with JavaScript v2](https://frontendmasters.com/courses/getting-started-javascript-v2/) | Videos pertaining to vanilla JavaScript originally offered as a two day workshop. | Completed 6/3/2020 | [Code](https://github.com/jcastle/-playground-FeM-getting-started-JS) |
-| [WesBos React for Beginners](https://wesbos.com/react-for-beginners-re-recorded-again) | The course is using React 16.3-Alpha, which should be 16.3 stable once it's released. | In progress | [Code](https://github.com/jcastle/-playground-WB-react-for-beginners) |
+| [WesBos React for Beginners](https://wesbos.com/react-for-beginners-re-recorded-again) | The course is using React 16.3-Alpha, which should be 16.3 stable once it's released. | On hold | [Code](https://github.com/jcastle/-playground-WB-react-for-beginners) |
 
 </details>
 
