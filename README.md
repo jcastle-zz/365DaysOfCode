@@ -10,7 +10,7 @@ Here are a couple supporting docs outside of this repo.
 
 My goal here, while trying not to be a workaholic, is to learn as much as possible by coding every day for a year. Some days this involves working on one of the Code.gov [16 code bases](https://github.com/GSA/code-gov) to doing an online class to writing javascript programs. 
 
-The following is a collection of coursework and projects beyond Code.gov that support my maturation of being an engineering professional.
+The following is a collection of coursework and projects beyond Code.gov that support my move to engineering.
 
 <details>
 <summary>General web development</summary>
@@ -47,7 +47,7 @@ The following is a collection of coursework and projects beyond Code.gov that su
 
 | Course | Description | Progress | Repo |
 | ----- | ----- | ----- | ----- |
-| [FeM Webpack 4 Fundamentals](https://frontendmasters.com/courses/webpack-fundamentals/) | The basics of Webpack from the history of Node modules to configuration with popular loaders and plugins. | In progress | [Code](https://github.com/jcastle/-playground-FeM-webpack-fundamentals-v4) |
+| [FeM Webpack 4 Fundamentals](https://frontendmasters.com/courses/webpack-fundamentals/) | The basics of Webpack from the history of Node modules to configuration with popular loaders and plugins. | Completed 6/10/2020 | [Code](https://github.com/jcastle/-playground-FeM-webpack-fundamentals-v4) |
 
 </details>
 
