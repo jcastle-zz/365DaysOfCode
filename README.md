@@ -49,6 +49,7 @@ The following is a collection of coursework and projects beyond Code.gov that su
 | Course | Description | Progress | Repo |
 | ----- | ----- | ----- | ----- |
 | [FeM Webpack 4 Fundamentals](https://frontendmasters.com/courses/webpack-fundamentals/) | The basics of Webpack from the history of Node modules to configuration with popular loaders and plugins. | Completed 6/10/2020 | [Code](https://github.com/jcastle/-playground-FeM-webpack-fundamentals-v4) |
+| [FeM Git In-depth](https://frontendmasters.com/courses/git-in-depth/) | In-depth look of Git. Includes design philosophy and master techniques of merging, rebasing, merge conflicts, etc. | In progress | [Code](https://github.com/jcastle/-playground-FeM-git-in-depth) |
 
 </details>
 
