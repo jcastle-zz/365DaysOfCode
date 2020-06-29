@@ -24,7 +24,7 @@ The following is a collection of coursework and projects beyond Code.gov that su
 </details>
 
 <details>
-<summary>Cascading Style Sheets (CSS) & Design</summary>
+<summary>Cascading Style Sheets (CSS) & design</summary>
 
 | Course | Description | Progress | Repo |
 | ----- | ----- | ----- | ----- |
@@ -44,7 +44,7 @@ The following is a collection of coursework and projects beyond Code.gov that su
 </details>
 
 <details>
-<summary>Website Configuration</summary>
+<summary>Website configuration</summary>
 
 | Course | Description | Progress | Repo |
 | ----- | ----- | ----- | ----- |
@@ -52,6 +52,16 @@ The following is a collection of coursework and projects beyond Code.gov that su
 | [FeM Git In-depth](https://frontendmasters.com/courses/git-in-depth/) | In-depth look of Git. Includes design philosophy and master techniques of merging, rebasing, merge conflicts, etc. | In progress | [Code](https://github.com/jcastle/-playground-FeM-git-in-depth) |
 
 </details>
+
+<details>
+<summary>Workshops - various web-dev topics</summary>
+
+| Course | Description | Progress | Repo |
+| ----- | ----- | ----- | ----- |
+| [FeM Complete Intro to Linux and the Command Line](https://frontendmasters.com/workshops/complete-linux-cli/) | Overview of the command line and the Linux operating system. | 6/6-7/1/2020 | [Code](https://github.com/jcastle/-playground-FeM-command-line-linux) |
+
+</details>
+
 
 <details>
 <summary>Projects</summary>
