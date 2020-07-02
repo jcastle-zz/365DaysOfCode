@@ -58,7 +58,7 @@ The following is a collection of coursework and projects beyond Code.gov that su
 
 | Course | Description | Dates | Repo |
 | ----- | ----- | ----- | ----- |
-| [FeM Complete Intro to Linux and the Command Line](https://frontendmasters.com/workshops/complete-linux-cli/) | Overview of the command line and the Linux operating system. | 6/6-7/1/2020 | [Code](https://github.com/jcastle/-playground-FeM-command-line-linux) |
+| [FeM Complete Intro to Linux and the Command Line](https://frontendmasters.com/workshops/complete-linux-cli/) | Overview of the command line and the Linux operating system. | 6/30-7/1/2020 | [Code](https://github.com/jcastle/-playground-FeM-command-line-linux) |
 
 </details>
 
