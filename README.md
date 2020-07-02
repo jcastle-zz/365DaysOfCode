@@ -39,7 +39,7 @@ The following is a collection of coursework and projects beyond Code.gov that su
 | ----- | ----- | ----- | ----- |
 | [WesBos Beginner JavaScript](https://beginnerjavascript.com/) | 85 videos pertaining to vanilla JavaScript. Includes JS fundamentals and interaction with the DOM. | Completed 5/24/2020 | [Code](https://github.com/jcastle/-playground-WB-beginner-javascript) |
 | [FeM Getting Started with JavaScript v2](https://frontendmasters.com/courses/getting-started-javascript-v2/) | Videos pertaining to vanilla JavaScript originally offered as a two day workshop. | Completed 6/3/2020 | [Code](https://github.com/jcastle/-playground-FeM-getting-started-JS) |
-| [WesBos React for Beginners](https://wesbos.com/react-for-beginners-re-recorded-again) | The course is using React 16.3-Alpha, which should be 16.3 stable once it's released. | Completed 7/2/2020 | [Code](https://github.com/jcastle/-playground-WB-react-for-beginners) |
+| [WesBos React for Beginners](https://wesbos.com/react-for-beginners-re-recorded-again) | ReactJS overview course taught with working through a fish menu app. Also included Firebase databases. | Completed 7/2/2020 | [Code](https://github.com/jcastle/-playground-WB-react-for-beginners) |
 
 </details>
 
