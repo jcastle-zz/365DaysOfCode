@@ -19,7 +19,7 @@ The following is a collection of coursework and projects beyond Code.gov that su
 | ----- | ----- | ----- | ----- |
 | [GA Front-End Web Development](https://generalassemb.ly/education/front-end-web-development/washington-dc) | Bootcamp lasting four months on Saturdays. Topics included HTML, CSS, and Javascript with JQuery. Final project was a fully functioning website. | Completed 3/19/2016 | [Code](https://github.com/jcastle/fewd21dev) |
 | [FeM Complete Intro to Web Development](https://frontendmasters.com/courses/web-development-v2/) | 11 hours of introductory material pertaining to front-end development including HTML, CSS, and JS. Also includes brief instruction on package management, Git, and GitHub. | Completed 6/2/2020 | [Code](https://github.com/jcastle/-playground-FeM-intro-web-dev) |
-| [FeM Bootcamp](https://frontendmasters.com/bootcamp/) | A full refresher of HTML, CSS, JS. Also includes Git and GitHub use. | In progress | [Code](https://github.com/jcastle/-playground-FeM-bootcamp) |
+| [FeM Bootcamp](https://frontendmasters.com/bootcamp/) | A full refresher of HTML, CSS, JS. Also includes Git and GitHub use. | Completed 10/4/2020 | [Code](https://github.com/jcastle/-playground-FeM-bootcamp) |
 
 </details>
 
