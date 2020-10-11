@@ -70,7 +70,8 @@ The following is a collection of coursework and projects beyond Code.gov that su
 | Project | Description |
 | ----- | ----- |
 | [dojo](https://github.com/jcastle/-playground-dojo) | Repo for practicing front-end exercises gathered through classes and books.
-| [Game: Feed a Mole](https://github.com/jcastle/-playground-FeM-bootcamp/tree/master/Build_Game-Feed-Mole) | One of two final projects from Frontend Masters Bootcamp. |
+| [Calculator Project](https://github.com/jcastle/-playground-FeM-bootcamp/tree/master/Calculator_JS) | One of two projects from Frontend Masters Bootcamp. |
+| [Game: Feed a Mole](https://github.com/jcastle/-playground-FeM-bootcamp/tree/master/Build_Game-Feed-Mole) | Two of two projects from Frontend Masters Bootcamp. |
 | [Code.gov Metrics Calculations](https://github.com/jcastle/-playground-dojo/tree/master/javascript-programs/code.gov-metrics) | Javascript program to calculate aggregates and percentages pertaining to government-wide VCS and code repo UsageType. Data initially pulled from the GitHub API using a [utility program](https://github.com/GSA/code-gov-verify-agency-jsons) to assess agency source code progress. |
 
 </details>
