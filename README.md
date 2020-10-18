@@ -3,7 +3,7 @@
 This repo is a representation of my effort to move from a government program manager to a front-end engineer. My first commercial job after college was in front-end development, then I accepted a job in government and quit working on my technical skills, to many years later dabbling in front-end development once again. My latest role is to be the engineering lead for the Code.gov platform and complete all front-end engineering activities.
 
 Here are a couple supporting docs outside of this repo.
-- [Professional resume](https://github.com/jcastle/dissertation_publishingOSS/blob/master/Resume.pdf)
+- [Professional resume](https://github.com/jcastle/dissertation_publishingOSS/blob/master/Resume2.pdf)
 - [Ph.D. dissertation](https://github.com/jcastle/dissertation_publishingOSS/blob/master/Castle_JR_D_2020.pdf) on open source software
 - [LinkedIn](https://www.linkedin.com/in/jrcastle/)
 - [Twitter](https://twitter.com/jrcastle_vt)
