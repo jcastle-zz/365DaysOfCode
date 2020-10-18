@@ -58,7 +58,7 @@ The following is a collection of coursework and projects beyond Code.gov that su
 
 | Course | Description | Progress | Repo |
 | ----- | ----- | ----- | ----- |
-| [FeM Web Security](https://frontendmasters.com/courses/web-security/) | Course on web security with discussion of hackers, cross-site scripting (XSS), cross-site request forgery (CSRF), clickjacking, third-party assets, man-in-the-middle, and HTTPS. | In progress | [Code](https://github.com/jcastle/-playground-FeM-web-security) |
+| [FeM Web Security](https://frontendmasters.com/courses/web-security/) | Course on web security with discussion of hackers, cross-site scripting (XSS), cross-site request forgery (CSRF), clickjacking, third-party assets, man-in-the-middle, and HTTPS. | Completed 10/18/2020 | [Code](https://github.com/jcastle/-playground-FeM-web-security) |
 
 </details>
 
