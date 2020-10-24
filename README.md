@@ -23,6 +23,15 @@ The following is a collection of coursework and projects beyond Code.gov that su
 </details>
 
 <details>
+<summary>Computer science/Engineering classes</summary>
+
+| Course | Description | Progress | Repo |
+| ----- | ----- | ----- | ----- |
+| [FeM Four Semesters of Computer Science in Five Hours](https://frontendmasters.com/courses/computer-science/) | Course covered algorithms and Big O analysis, recursion, sorting, data structures, and functional programming. Provides theory for useful context for analyssis of implementation and architecture. | In progress | [Code](https://github.com/jcastle/-playground-FeM-FourSemestersCS) |
+
+</details>
+
+<details>
 <summary>General web development</summary>
 
 | Course | Description | Progress | Repo |
