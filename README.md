@@ -27,7 +27,7 @@ The following is a collection of coursework and projects beyond Code.gov that su
 
 | Course | Description | Progress | Repo |
 | ----- | ----- | ----- | ----- |
-| [FeM Four Semesters of Computer Science in Five Hours](https://frontendmasters.com/courses/computer-science/) | Course covered algorithms and Big O analysis, recursion, sorting, data structures, and functional programming. Provides theory for useful context for analyssis of implementation and architecture. | In progress | [Code](https://github.com/jcastle/-playground-FeM-FourSemestersCS) |
+| [FeM Four Semesters of Computer Science in Five Hours](https://frontendmasters.com/courses/computer-science/) | Course covered algorithms and Big O analysis, recursion, sorting, data structures, and functional programming. Provides theory for useful context for analysis of implementation and architecture. | In progress | [Code](https://github.com/jcastle/-playground-FeM-FourSemestersCS) |
 | [UPenn Engineering Computational Thinking and Problem Solving](https://www.coursera.org/learn/computational-thinking-problem-solving/home/welcome) | This course provided an approach to solving problems using concepts and ideas from computer science, and expressing those solutions in ways that can be run by a computer. Intro course to online masters in computer science. | In progress | [Code](https://github.com/jcastle/-playground-upenn-computational-thinking) |
 
 </details>
